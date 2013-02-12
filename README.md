@@ -1,0 +1,1 @@
+Blog example from http://www.djangorocks.com/
